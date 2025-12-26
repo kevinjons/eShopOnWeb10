@@ -1,6 +1,6 @@
 name: eShopOnWeb Build and Test
 
-Triggers (uncomment line below to use it)
+Triggers
 on: [push, pull_request, workflow_dispatch]
 
 jobs:
